@@ -45,6 +45,7 @@ jupyter notebook
 Open the Jupyter notebooks to explore deep learning concepts and implementations:
 ```bash
 jupyter notebook keras1.ipynb
+jupyter notebook keras2.ipynb
 ```
 
 ## Technologies Used
@@ -58,9 +59,6 @@ jupyter notebook keras1.ipynb
 
 Feel free to fork this repository and submit pull requests for improvements or new deep learning implementations.
 
-## License
-
-This project is open source and available under the MIT License.
 
 ## Author
 
