@@ -5,6 +5,10 @@ A repository containing Jupyter notebooks and implementations for deep learning 
 ## Contents
 
 - **keras1.ipynb** - Deep learning fundamentals and Keras implementation examples
+- **keras2.ipynb** - Advanced Keras concepts and model architectures
+- **keras3.ipynb** - Deep learning optimization techniques and best practices
+- **early_stopping.ipynb** - Early stopping regularization technique to prevent overfitting
+- **Vanishing_gradient.ipynb** - Understanding and addressing the vanishing gradient problem
 
 ## Overview
 
@@ -12,6 +16,8 @@ This repository explores core deep learning concepts including:
 - Neural network architectures
 - Model training and optimization
 - Keras framework implementation
+- Regularization techniques (early stopping)
+- Gradient flow and vanishing gradient problems
 - Deep learning best practices
 
 ## Getting Started
@@ -46,6 +52,9 @@ Open the Jupyter notebooks to explore deep learning concepts and implementations
 ```bash
 jupyter notebook keras1.ipynb
 jupyter notebook keras2.ipynb
+jupyter notebook keras3.ipynb
+jupyter notebook early_stopping.ipynb
+jupyter notebook Vanishing_gradient.ipynb
 ```
 
 ## Technologies Used
