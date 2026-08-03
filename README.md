@@ -55,6 +55,7 @@ jupyter notebook keras2.ipynb
 jupyter notebook keras3.ipynb
 jupyter notebook early_stopping.ipynb
 jupyter notebook Vanishing_gradient.ipynb
+jupyter notebook regularization.ipynb
 ```
 
 ## Technologies Used
