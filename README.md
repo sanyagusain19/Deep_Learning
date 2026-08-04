@@ -65,9 +65,6 @@ jupyter notebook regularization.ipynb
 - **Python** - Programming language
 - **Jupyter Notebook** - Interactive computing environment
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests for improvements or new deep learning implementations.
 
 
 ## Author
