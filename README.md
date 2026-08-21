@@ -31,7 +31,7 @@ The notebooks are written with an educational intent: to explain concepts with s
 - `keras3.ipynb` — Optimization techniques, learning rate schedules, and training best practices.
 - `early_stopping.ipynb` — Demonstrates early stopping as a regularization technique to prevent overfitting.
 - `Vanishing_gradient.ipynb` — Explains the vanishing gradient problem and ways to mitigate it (initialization, activations, architecture).
--`regularisation.ipynb`
+- `regularisation.ipynb`
 If you add more notebooks, include a short description here so viewers can quickly find what they need.
 
 ## Getting started
