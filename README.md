@@ -32,7 +32,7 @@ The notebooks are written with an educational intent: to explain concepts with s
 - `early_stopping.ipynb` — Demonstrates early stopping as a regularization technique to prevent overfitting.
 - `Vanishing_gradient.ipynb` — Explains the vanishing gradient problem and ways to mitigate it (initialization, activations, architecture).
 - `regularisation.ipynb`— used regularizers such as l1 and l2 to reduce overfitting.
-- `keras_pooling_demo.ipynb` 
+- `keras_pooling_demo.ipynb` —  Used Maxpooling for mnist dataset
 
 
 ## Getting started
