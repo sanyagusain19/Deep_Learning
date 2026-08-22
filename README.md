@@ -115,7 +115,7 @@ Contributions are welcome! Please follow these steps:
 3. Make changes and commit: `git commit -m "Add explanation for ..."`.
 4. Push to your branch and open a Pull Request.
 
-If you add notebooks, keep them focused and include a short README or a header cell describing the goal of the notebook and any external data used.
+
 
 ## License
 
