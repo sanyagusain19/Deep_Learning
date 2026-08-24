@@ -118,10 +118,6 @@ Contributions are welcome! Please follow these steps:
 
 
 
-## License
-
-This repository does not include a license file. If you want this code and notebooks to be reusable by others, consider adding a LICENSE (MIT, Apache-2.0, or similar).
-
 ## Author
 
 [sanyagusain19](https://github.com/sanyagusain19)
