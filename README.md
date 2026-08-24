@@ -126,5 +126,4 @@ Contributions are welcome! Please follow these steps:
 
 If you'd like, I can also:
 - Add a `requirements.txt` generated from your environment or suggested packages.
-- Add badges (CI, license) and a small example GIF showing notebook output.
 - Update the repository description and topics. 
