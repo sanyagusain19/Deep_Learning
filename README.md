@@ -43,7 +43,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 - Python 3.8+ (3.10 recommended)
 - pip
-- Jupyter Notebook or JupyterLab
+- Jupyter Notebook or JupyterLab or can work in google colab.
 - A recent GPU and CUDA drivers if you plan to run larger experiments (optional)
 
 ### Recommended packages
