@@ -24,7 +24,7 @@ This repo is a hands-on guide to important deep learning topics for learners and
 
 The notebooks are written with an educational intent: to explain concepts with simple examples, plots, and runnable Keras/TensorFlow code.
 
-## Notebooks (what's inside)
+## Notebooks 
 
 - `keras1.ipynb` — Deep learning fundamentals: building and training basic neural networks with Keras.
 - `keras2.ipynb` — Intermediate/advanced Keras concepts and model architectures.
